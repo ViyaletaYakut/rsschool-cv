@@ -1,3 +1,3 @@
 # rsschool-cv
 
-htts://ViyaletaYakut.github.io/rsschool-cv/cv
+https://ViyaletaYakut.github.io/rsschool-cv/cv
