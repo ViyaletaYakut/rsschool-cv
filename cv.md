@@ -1,5 +1,8 @@
 # Viyaleta Yakut 
 
+### Location: France
+
+
 ## Contacts
 
 + **Discord:** Viyaleta
@@ -15,7 +18,8 @@ I absorbed the information from the different youtube tutorials. Now I have a si
 ***********************
 ## Skills
 
-+ HTML5/CSS3 (beginer)
++ HTML5/CSS3 (basic)
++ JS (beginer)
 ***********************
 ## Working experience
 
@@ -23,6 +27,6 @@ I have no working experience at least.
 ***********************
 ## Languages
 
++ Russian/Belarussian: native speaker
 + French: advanced level
 + English: upper-intermediate
-+ Russian/Belarussian: native speaker
